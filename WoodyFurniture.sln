@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WoodyFurniture", "WoodyFurniture\WoodyFurniture.vcxproj", "{C343BEBE-1C1C-4D3F-BDAD-BC13272AF79D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C343BEBE-1C1C-4D3F-BDAD-BC13272AF79D}.Debug|x64.ActiveCfg = Debug|x64
+		{C343BEBE-1C1C-4D3F-BDAD-BC13272AF79D}.Debug|x64.Build.0 = Debug|x64
+		{C343BEBE-1C1C-4D3F-BDAD-BC13272AF79D}.Debug|x86.ActiveCfg = Debug|Win32
+		{C343BEBE-1C1C-4D3F-BDAD-BC13272AF79D}.Debug|x86.Build.0 = Debug|Win32
+		{C343BEBE-1C1C-4D3F-BDAD-BC13272AF79D}.Release|x64.ActiveCfg = Release|x64
+		{C343BEBE-1C1C-4D3F-BDAD-BC13272AF79D}.Release|x64.Build.0 = Release|x64
+		{C343BEBE-1C1C-4D3F-BDAD-BC13272AF79D}.Release|x86.ActiveCfg = Release|Win32
+		{C343BEBE-1C1C-4D3F-BDAD-BC13272AF79D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4941E616-43F7-4A8D-B762-B6E2EAE8942C}
+	EndGlobalSection
+EndGlobal
