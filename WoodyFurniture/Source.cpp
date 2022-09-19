@@ -9,6 +9,7 @@ int main() {
 	const double MODERN = 57.5;
 	const double CLASSICAL = 127.75;
 
+	// not to confuse with QT Framework
 	int qtColonial;
 	int qtModern;
 	int qtClassical;
